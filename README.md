@@ -3,6 +3,13 @@
 
 A simple [Svelte.js](https://svelte.dev/) application that allows users to create and vote on different polls. This project demonstrates the basics of using Svelte for interactive UI development, showcasing how to manage state, handle events, and dynamically render content.
 
+-----
+## Project Setup
+- [ ] Run `npm install` to install your dependencies.
+- [ ] Run `npm run build` to build the server.
+- [ ] Run `npm run dev` to start the application.
+<br>
+
 ![image](https://github.com/user-attachments/assets/c13aca4b-5f01-439d-841f-56ccbec5ff32)
 <sup>Credit goes to the original/external sources used.</sup>
 
